@@ -1,0 +1,24 @@
+01 - Create Json Object for Question => [Done]
+02 - Start Create Html Matkup => [Done]
+03 - Add Dummy Date =>  [Done]
+04 - Create The Styling [Done] 
+
+
+
+05 - Fetch Number Of Question From Json Object
+06 - Show Question Count + Question category
+07 - Show The Number of Bullets Depend on Question Count
+08 - Set The Number For The right and worg Answers
+09 - Create CountDown Timer
+10 - Fetch The Question From The Json Object
+11 - Show first Question
+12 - check Answers and Hide Question then Show next One
+13 - IF The End , Mark The Question As Worng and show Next Question
+14 - Add Class on Bullet After Answering then Question
+15 - If Question finshed show The Result
+
+Ideas 
+
+ - Many JSon object and choose Language
+ - Add Many Question and Choose only 10 Random   
+ - Randomize Answers (Shuffle function)
