@@ -188,7 +188,7 @@ function checkAnswer(rAnswer, count) {
 
 function handleBullets() {
 
-    let bulletsSpans = document.querySelector(".bullets .spans span");
+    let bulletsSpans = document.querySelectorAll(".bullets .spans span");
 
     let arrayOfSpans = Array.from(bulletsSpans);
 
